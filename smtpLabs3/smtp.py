@@ -11,9 +11,9 @@ def send_email():
 
     # Email details
     sender_email = "230500226mycput@gmail.com"
-    receiver_email = "223146145@mycput.ac.za"
+    receiver_email = "230500226@mycput.ac.za"
     subject = "Test Email 230500226"
-    body = "This is a test email sent from Python 230500226 numbder 2."
+    body = "This is a test email sent from Python 230500226 numbder 3."
 
     # Create a MIMEText object to represent the email
     msg = MIMEMultipart()
